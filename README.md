@@ -8,5 +8,5 @@ Planning on extending it into a game in the future :))
 Concept art on Figma 
 
 
-
-
+Uploading screenMobile.mp4…
+Final app working 
