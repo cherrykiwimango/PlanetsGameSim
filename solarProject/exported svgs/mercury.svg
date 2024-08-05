@@ -1,0 +1,13 @@
+<svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="7" cy="7" r="7" fill="#666666"/>
+<circle cx="2" cy="6" r="1" fill="#D9D9D9"/>
+<ellipse cx="10" cy="1.5" rx="1" ry="0.5" fill="#D9D9D9"/>
+<circle cx="11.5" cy="9.5" r="1.5" fill="#D9D9D9"/>
+<circle cx="7.5" cy="6.5" r="0.5" fill="#D9D9D9"/>
+<ellipse cx="9" cy="12.5" rx="1" ry="0.5" fill="#D9D9D9"/>
+<circle cx="9" cy="6" r="1" fill="#D9D9D9"/>
+<circle cx="4" cy="10" r="2" fill="#D9D9D9"/>
+<circle cx="3" cy="4" r="1" fill="#D9D9D9"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M12.8467 3.14938C13.3911 3.9743 13.7656 4.9212 13.9203 5.94031C13.787 5.97916 13.6459 6 13.5 6C12.6716 6 12 5.32843 12 4.5C12 3.90576 12.3456 3.39224 12.8467 3.14938Z" fill="#D9D9D9"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M7.93655 0.0621033C7.68152 1.17212 6.68744 2 5.5 2C4.66231 2 3.92085 1.58798 3.46721 0.955566C4.5042 0.348175 5.71143 0 7 0C7.31757 0 7.63019 0.0211487 7.93655 0.0621033Z" fill="#D9D9D9"/>
+</svg>

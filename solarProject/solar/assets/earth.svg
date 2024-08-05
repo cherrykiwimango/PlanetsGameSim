@@ -1,0 +1,12 @@
+<svg width="27" height="27" viewBox="0 0 27 27" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="13.5" cy="13.5" r="13.5" fill="#1E67D5"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0.458221 10C0.954621 8.14563 1.83599 6.44867 3.01144 5H14.0001V10H0.458221Z" fill="#2FD74A"/>
+<rect x="11" y="5" width="6" height="5" rx="2.5" fill="#2FD74A"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0.768176 18C0.270694 16.5925 0 15.0779 0 13.5C0 13.3326 0.00304671 13.1659 0.0090877 13L9 13V18H0.768176Z" fill="#2FD74A"/>
+<rect x="5" y="13" width="7" height="5" rx="2.5" fill="#2FD74A"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M2.27332 21H16V26H8.39157C5.88748 24.9756 3.75973 23.2206 2.27332 21Z" fill="#2FD74A"/>
+<rect x="13" y="21" width="5" height="5" rx="2.5" fill="#2FD74A"/>
+<rect x="15" y="14" width="8" height="5" rx="2.5" fill="#2FD74A"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0.0090877 14C0.00304671 13.8341 0 13.6674 0 13.5C0 11.9221 0.270694 10.4075 0.768176 9L8 9V14H0.0090877Z" fill="#2FD74A"/>
+<rect x="6" y="10" width="5" height="3" rx="1.5" fill="#1E67D5"/>
+</svg>
