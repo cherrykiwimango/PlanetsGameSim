@@ -9,4 +9,4 @@ Concept art on Figma
 
 
 Uploading screenMobile.mp4…
-Final app working 
+Final app preview
